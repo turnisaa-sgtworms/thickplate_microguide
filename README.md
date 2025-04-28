@@ -7,6 +7,7 @@ starting with a dxf of your plate, import it into fusion, then open it and edit 
 ![edit the sketch](https://github.com/turnisaa-sgtworms/thickplate_microguide/blob/main/images/edit%20sketch.png?raw=true)
 
 add cutouts to one switch, i used 1mm by 2.5mm but used a center rectangle for ease of drawing. in the next image you'll see i trimmed out the extra lines in the square BUT NOT ALL OF THEM. in hindsight, i also should have waited to add these until after the first extrude, as if you do it this way you have to suffer and select every single little extra piece for the first extrude.
+
 ![add cutouts to a switch](https://github.com/turnisaa-sgtworms/thickplate_microguide/blob/main/images/add%20cutouts.png?raw=true)
 
 copy and paste this cutout to every switch - you can also use rectangular patterns for areas of switches that are regularly spaced.
